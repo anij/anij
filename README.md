@@ -1,4 +1,5 @@
-### 🙏 Namaste 
+###  ![Namaste](https://img.shields.io/badge/%F0%9F%99%8F-Namaste-success?style=flat-square)  ![HelloWorld](https://img.shields.io/badge/%F0%9F%91%8B-Hello%20World-orange?style=flat-square)
+
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
