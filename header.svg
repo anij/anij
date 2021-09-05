@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 400 100" width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: aqua;
+                animation: mymove 5s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: AliceBlue;
+                }
+                to {
+                    color: CornflowerBlue;
+                }
+            }
+            </style>
+            <h1>
+                   Hi, I'm Anijit!
+                <!-- <img src = "https://img.shields.io/badge/%F0%9F%99%8F-Namaste-success?style=flat-square" height="30px" /> 
+                <img src = "https://img.shields.io/badge/%F0%9F%91%8B-Hello%20World-orange?style=flat-square" height="30px" /> -->
+</h1>
+            <h1>
+                Welcome to my profile!
+                <!-- <img src = "https://img.shields.io/badge/%F0%9F%99%8F-Namaste-success?style=flat-square" height="30px" /> 
+                <img src = "https://img.shields.io/badge/%F0%9F%91%8B-Hello%20World-orange?style=flat-square" height="30px" /> -->
+</h1>
+        </div>
+    </foreignObject>
+</svg>

@@ -1,3 +1,9 @@
+<!-- <div align="center" style="background-color: CornflowerBlue">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" align="left"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"  align="left"/>	
+    <img src="header.svg" width="400" height="150" alt="css-in-readme">   
+	<!-- <img src="head.jpg" align="right" width="15%"/>        
+</div> -->
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"/>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
@@ -11,8 +17,8 @@
       <a href="https://github.com/anij" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /> 
       <a href="https://www.linkedin.com/in/anijitsarkar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /> 
       <a href="mailto:anijitsarkar@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+	  <a href="https://www.instagram.com/anijitsarkar" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
       <a href="https://stackoverflow.com/users/1599933/anij" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /> 
-        <a href="https://www.instagram.com/anijitsarkar" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
       <a href="https://leetcode.com/jughead_jr" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" />
 </p>
 <hr/>
