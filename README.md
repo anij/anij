@@ -45,7 +45,7 @@
 	<img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
 <hr/>
-<h3>GitHub Activies</h3>
+<h3>GitHub Activities</h3>
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
