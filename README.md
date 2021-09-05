@@ -9,5 +9,11 @@
 anij/anij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+------------------------------------------------------------------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/anij/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anij&count_private=true&theme=onedark)
+
+------------------------------------------------------------------------
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anij&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
