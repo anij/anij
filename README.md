@@ -7,7 +7,7 @@
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"/>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-   	Hi, I'm Anijit! Welcome to my profile!
+   	Hey there.. welcome!
   <!-- <img src = "https://img.shields.io/badge/%F0%9F%99%8F-Namaste-success?style=flat-square" height="30px" /> 
   <img src = "https://img.shields.io/badge/%F0%9F%91%8B-Hello%20World-orange?style=flat-square" height="30px" /> -->
 </h3>
