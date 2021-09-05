@@ -1,8 +1,9 @@
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" />
-  <img src = "https://img.shields.io/badge/%F0%9F%99%8F-Namaste-success?style=flat-square" height="30px" /> 
-  <img src = "https://img.shields.io/badge/%F0%9F%91%8B-Hello%20World-orange?style=flat-square" height="30px" />
-</h1>
+<h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/> Hi, I'm Anijit Sarkar from India! Welcome to my profile!
+  <!-- <img src = "https://img.shields.io/badge/%F0%9F%99%8F-Namaste-success?style=flat-square" height="30px" /> 
+  <img src = "https://img.shields.io/badge/%F0%9F%91%8B-Hello%20World-orange?style=flat-square" height="30px" /> -->
+</h3>
+<hr/>
 <h3>Connect Me</h3>
 <p>
       <a href="https://github.com/anij" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> 
