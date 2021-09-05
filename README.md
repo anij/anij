@@ -1,5 +1,5 @@
 <h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/> Hi, I'm Anijit Sarkar from India! Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/> Hi, I'm Anijit Sarkar! Welcome to my profile!
   <!-- <img src = "https://img.shields.io/badge/%F0%9F%99%8F-Namaste-success?style=flat-square" height="30px" /> 
   <img src = "https://img.shields.io/badge/%F0%9F%91%8B-Hello%20World-orange?style=flat-square" height="30px" /> -->
 </h3>
