@@ -58,7 +58,7 @@
 <p>
 <a href="https://github.com/anij">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anij&count_private=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-a1yaxahwf-anij.vercel.app/api?username=anij&count_private=true&theme=onedark" />
 </a>   
 </p>
 <p>
