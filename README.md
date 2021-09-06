@@ -56,13 +56,13 @@
 <hr/>
 <i><h3>stats</h3></i>
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anij">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anij&count_private=true&theme=onedark" />
 </a>   
 </p>
 <p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/anij">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=anij&theme=onedark" />
 </a> 
