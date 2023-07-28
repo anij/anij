@@ -61,9 +61,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anij&count_private=true&theme=onedark" />
 </a>   
 </p> -->
-<p>
+<!-- <p>
 <a href="https://github.com/anij">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=anij&theme=onedark" />
 </a> 
-</p>
+</p> -->
