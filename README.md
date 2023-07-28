@@ -54,13 +54,13 @@
 	<img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-9adae0?style=flat-square&logo=apache-kafka&logoColor=black" />
 </p>
 <hr/>
-<i><h3>stats</h3></i>
+<!-- <i><h3>stats</h3></i>
 <p>
 <a href="https://github.com/anij">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anij&count_private=true&theme=onedark" />
 </a>   
-</p>
+</p> -->
 <p>
 <a href="https://github.com/anij">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
